@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amolenaar&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amolenaar&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true)
 
 <!--
 **amolenaar/amolenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
