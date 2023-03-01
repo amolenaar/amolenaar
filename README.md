@@ -24,7 +24,8 @@ I've been maintainer of [FitNesse](https://github.com/fitnesse) for a couple of 
 
 ### The Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amolenaar&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amolenaar&show_icons=true&hide_title=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolenaar&layout=compact)
 
 <!--
 **amolenaar/amolenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
