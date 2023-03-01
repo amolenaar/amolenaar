@@ -2,7 +2,7 @@
 
 I’m Arjan, a software engineer/architect happily working at [Xebia](https://xebia.com).
 
-I’m an *Open Source* adept. I've been using and writing open source software ever since I started programming, more than 25 years ago. I favor working on a **Linux**-based machine, running [GNOME Desktop](https://gnome.org).
+I’m an **Open Source** adept. I've been using and writing open source software ever since I started programming, more than 25 years ago. I favor working on a **Linux**-based machine, running [GNOME Desktop](https://gnome.org).
 
 For the last few years I've been writing mostly **Python**. I also like to write **Elixir**, a bit of **Typescript**, and the occasional shell script.
 
@@ -10,10 +10,10 @@ For the last few years I've been writing mostly **Python**. I also like to write
 
 Lately I’ve been actively working on:
 
-- [Pytest-archon](https://github.com/jwbargsten/pytest-archon): a little tool my colleage @jwbargsten and me build to enforce rules on your Python application architecture.
-- [Gaphor](https://github.com/gaphor/gaphor): a modeling tool for SysML/UML models. It’s a lot of fun building a desktop app in my spare time, while building webapps for work.
+- **[Pytest-archon](https://github.com/jwbargsten/pytest-archon)**: a little tool my colleage @jwbargsten and me build to enforce rules on your Python application architecture.
+- **[Gaphor](https://github.com/gaphor/gaphor)**: a modeling tool for SysML/UML models. It’s a lot of fun building a desktop app in my spare time, while building webapps for work.
 
-I've been maintainer of [FitNesse](https://github.com/fitnesse) for a couple of years.
+I've been maintainer of **[FitNesse](https://github.com/fitnesse)** for a couple of years.
 
 ### Recent Blogs
 
