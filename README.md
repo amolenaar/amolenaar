@@ -26,7 +26,7 @@ I occasionally post on [xebia.com](https://xebia.com/blog/author/amolenaar/) and
 
 ### The Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amolenaar&show_icons=true&hide_title=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amolenaar&show_icons=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolenaar&layout=compact)
 
 <!--
