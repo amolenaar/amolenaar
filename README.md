@@ -19,6 +19,7 @@ I've been maintainer of [FitNesse](https://github.com/fitnesse) for a couple of 
 
 - [How to tame your Python codebase](https://xebia.com/blog/how-to-tame-your-python-codebase/)
 - [macOS keyboard shortcuts with GTK 4](https://gaphor.org/2022/12/10/gtk4-macos-keybindings/)
+- [Checking out LiveViewJS](https://xebia.com/blog/checking-out-liveviewjs/)
 - [TDD is not about unit tests](https://xebia.com/blog/tdd-not-unit-tests/) (co-written with Dave Farley)
 
 ### The Stats
