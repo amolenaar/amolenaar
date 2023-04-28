@@ -10,7 +10,7 @@ For the last few years I've been writing mostly **Python**. I also like to write
 
 Lately I’ve been actively working on:
 
-- **[Pytest-archon](https://github.com/jwbargsten/pytest-archon)**: a little tool my colleage @jwbargsten and me build to enforce rules on your Python application architecture.
+- **[Pytest-archon](https://github.com/jwbargsten/pytest-archon)**: a little tool my colleage [Joachim](https://github.com/jwbargsten) and me built to enforce rules on your Python application architecture.
 - **[Gaphor](https://github.com/gaphor/gaphor)**: a modeling tool for SysML/UML models. It’s a lot of fun building a desktop app in my spare time, while building webapps for work.
 
 I've been maintainer of **[FitNesse](https://github.com/fitnesse)** for a couple of years.
