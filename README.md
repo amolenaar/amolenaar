@@ -12,6 +12,7 @@ Lately I’ve been actively working on:
 
 - **[Pytest-archon](https://github.com/jwbargsten/pytest-archon)**: a little tool my colleage [Joachim](https://github.com/jwbargsten) and me built to enforce rules on your Python application architecture.
 - **[Gaphor](https://github.com/gaphor/gaphor)**: a modeling tool for SysML/UML models. It’s a lot of fun building a desktop app in my spare time, while building webapps for work.
+- **[PyGObject]([https://github.com/gaphor/gaphor](https://gitlab.gnome.org/GNOME/pygobject))**: a Python library that provides language bindings for the GNOME ecosystem (e.g. [GTK](https://gtk.org/)).
 
 I've been maintainer of **[FitNesse](https://github.com/fitnesse)** for a couple of years.
 
