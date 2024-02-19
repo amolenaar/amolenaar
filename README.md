@@ -11,10 +11,11 @@ For the last few years I've been writing mostly **Python**. I also like to write
 Lately I’ve been actively working on:
 
 - **[Pytest-archon](https://github.com/jwbargsten/pytest-archon)**: a little tool my colleage [Joachim](https://github.com/jwbargsten) and me built to enforce rules on your Python application architecture.
-- **[Gaphor](https://github.com/gaphor/gaphor)**: a modeling tool for SysML/UML models. It’s a lot of fun building a desktop app in my spare time, while building webapps for work.
+- **[Gaphor](https://github.com/gaphor/gaphor)**: a modeling tool for SysML/UML modeling. It’s a lot of fun building a desktop app in my spare time, while building webapps for work.
 - **[PyGObject](https://gitlab.gnome.org/GNOME/pygobject)**: a Python library that provides language bindings for the GNOME ecosystem (e.g. [GTK](https://gtk.org/)).
+- **[GTK](https://gitlab.gnome.org/GNOME/gtk)**: a multi-platform UI toolkit. I've been improving macOS support.
 
-I've been maintainer of **[FitNesse](https://github.com/fitnesse)** for a couple of years.
+I maintained **[FitNesse](https://github.com/fitnesse)** for a couple of years.
 
 ### Recent Blogs
 
